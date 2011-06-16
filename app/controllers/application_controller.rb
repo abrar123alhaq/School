@@ -1,3 +1,3 @@
-zxzxclass ApplicationController < ActionController::Base
+fjfjclass ApplicationController < ActionController::Base
   protect_from_forgery
 end
